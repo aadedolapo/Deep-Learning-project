@@ -1,2 +1,2 @@
 # Deep Learning Coursework
-### Detecting Macro-Facial Expression using CNN
+### Detecting Macro-Facial Expressions Using Convolutional Neural Network(CNN)
